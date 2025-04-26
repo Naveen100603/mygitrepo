@@ -1,0 +1,214 @@
+
+
+
+dot net
+=============
+
+
+1=====HTMl 4
+2====CSS 2
+3====HTML5
+4===css 3
+5,6====boostrap
+7,8====javscript 
+6 days===prgramming fundamentals
+        sdlc
+        flow chart
+        algorithm
+        dbms
+        sql server
+16 days====c#
+adv c#=====13
+web programming=====12 days
+type script=====2 days
+angular=== 8 days
+real life lab
+================================================================================================================================================================
+
+
+HTML 4------day1
+
+===================================
+HTML
+======
+website(web application)
+1.client side programming-----all programs are handle by web browser--parcer(compiler)
+------------------------------
+ex...HTML,CSS,JS,XML(transformation data),JsoN
+HTML--to create web sites
+css--to apply styles for website
+js--data validation for website
+xml--to communicate between two languages like C#-------------java
+json---an alternative to xml
+
+Drawback---no database suppor,no secure(sorce code is visible),lacks framework supports
+
+
+
+2. server side programming---all programs handled by webserver
+---------------------------
+ex=----apache,xamp,its,kestral,itsexpress
+#Role of web server
+------------------
+1.primary purpose of webserver is host the web pages(making page publicaly availble)---
+in our system-----IIs-internet information services(which is to put web page publicly)
+how to open---type iis-->left side default system name-->sites--->-->default browser--->add site--
+open in browser==https://localhost/mphasis/hello.html(virtual path)
+
+file:D://filename:/html(physucal path)
+
+2. to process server side languages
+example:php,nodejs,java,python,ruby,c#
+
+
+register.html
+---->java(for database connection)---it handel by webserver
+all server side languages executed in webserver
+web server having built in compiler
+HTTPs.sys in web server check html and give to web browser
+---------------
+why web server?
+--------------
+1.WWW.facebook.com(to create domains web server required)
+youtube.in
+
+2.to handle secureity
+3. to handle cache
+
+
+
+castrel webserver is worked for all windows,linux,mac etc..
+
+
+====================================================================================================================================================
+
+html--hypertext markup language--markup=highlighted
+html baed on standard generalized markup language(sgml)
+wml-->xml-->wMl-->HTml
+it was developed by tim berners
+<b>--->tag
+element=tag+property +content
+<font color=red> some content </font>
+meta tag
+========
+meta tag used for refreshing thw web page like cricket score it only work in web server
+in google link below have some description that used by meta tag
+
+<meta refresh=10 description="a page displays current stockprice/>
+
+A 
+
+Href------------(path of file to be opened)
+target------------(indicates in which frame the link opens)
+class-------------(to apply css style)
+name-----------------(internal hyper link)
+
+
+body
+
+margin
+text
+bgcolor
+background
+
+=====================
+external <a href "path">sports</a>
+internal <a href="#sp">click here</a>
+
+
+
+
+
+
+frame====using frame you display content from multiple pages in a single browser
+
+how to work ?
+<frameset>: how the content will be displayed   <frameset rows="30%,*">
+rows or columns
+<frame>: the page to be dispalyed(file path)  <frame src="home.html"/>
+                                               <frame src="hhh.html"/>
+
+
+=============================================================================================================================================================
+Formatting tags
+--------------
+<h1> <h6>--------heading of element
+
+
+
+
+tahs can be two types
+----------------------
+1.inline elements
+
+without line break
+<b><font><i></u><img><span>
+
+
+2.block line elements
+<div><table><article><section></header></footer><p><list>
+
+
+lists
+---------
+orderlist
+
+
+
+
+https://codebunk.com/b/1651100707597/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
